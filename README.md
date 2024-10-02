@@ -1,10 +1,10 @@
 # Prerequisites
-#
-- JDK 11 
-- Maven 3 
+##
+- JDK 11
+- Maven 3
 - MySQL 8
 
-# Technologies 
+# Technologies
 - Spring MVC
 - Spring Security
 - Spring Data JPA
@@ -16,7 +16,7 @@
 - Rabbitmq
 - ElasticSearch
 # Database
-Here,we used Mysql DB 
+Here,we used Mysql DB
 sql dump file:
 - /src/main/resources/db_backup.sql
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
